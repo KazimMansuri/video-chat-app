@@ -9,7 +9,7 @@ BACKEND:-
 2. install requirements.txt
 
 3. Create dotenv (.env) in Backend 
-4. add SECRET_KEY='3cd37a111e044698a41fa6b9dfb74865'
+4. add secret_key in .env file like( SECRET_KEY='3cd37a111e044698a41fa6b9dfb74865'  )
 
 5. run your server :- python app.py
    server is Running on http://127.0.0.1:5000/
