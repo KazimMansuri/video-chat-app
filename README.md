@@ -8,7 +8,7 @@ BACKEND:-
 1. create virtual environment and activate it.
 2. install requirements.txt
 
-3. Create .env in Backend 
+3. Create dotenv (.env) in Backend 
 4. add SECRET_KEY='3cd37a111e044698a41fa6b9dfb74865'
 
 5. run your server :- python app.py
