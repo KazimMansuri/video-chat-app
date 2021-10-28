@@ -61,7 +61,7 @@ const Login = () => {
   return (
     <div>
       {/* {loading === false && <h1>Login</h1>} */}
-      {errors === true && <h2>Cannot log in with provided credentials</h2>}
+      {errors === true && <h2 className="heading">incorrect email or password</h2>}
       {loading === false && (
         <Container component="main" maxWidth="xs">
           <Box

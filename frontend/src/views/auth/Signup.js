@@ -56,7 +56,7 @@ const Signup = () => {
   return (
     <div>
       {/* {loading === false && <h1>Signup</h1>} */}
-      {errors === true && <h2>Cannot signup with provided credentials</h2>}
+      {errors === true && <h2 className="heading">Username already exists</h2>}
       {loading === false && (
         <Container component="main" maxWidth="xs">
           <Box
