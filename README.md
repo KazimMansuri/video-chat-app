@@ -5,8 +5,8 @@ _______________________________________________________
 BACKEND:-
 
 
-1. create virtual environment and activate it.
-2. install requirements.txt
+1. create virtual environment(venv) and activate it.
+2. install requirements.txt in virtual environment(venv).
 
 3. Create dotenv (.env) in Backend 
 4. add secret_key in .env file like( SECRET_KEY='3cd37a111e044698a41fa6b9dfb74865'  )
